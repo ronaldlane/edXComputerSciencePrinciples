@@ -1,2 +1,3 @@
 # edXComputerSciencePrinciples
-my interactions with the course, meant for my personal training and development.
+Interactions with the course, are meant for my personal training and development.
+
